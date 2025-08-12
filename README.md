@@ -47,3 +47,22 @@ src/
 ├── App.jsx # Composant racine
 ├── main.jsx # Point d’entrée React
 └── store.js # Configuration Redux
+
+---
+
+🤝 **Contribution**
+
+Les contributions sont bienvenues !
+
+1. Fork le projet
+2. Crée une branche (`git checkout -b feature/ta-fonctionnalite`)
+3. Commit tes changements (`git commit -m 'Ajout de la fonctionnalité'`)
+4. Push sur ta branche (`git push origin feature/ta-fonctionnalite`)
+5. Ouvre une Pull Request
+## 📧 Contact
+
+- **Auteur** : FOFANA ISSOUF
+- **Email** : fofanaissouf179@gmail.com
+- **GitHub** :https://github.com/issouf14-DEV
+
+---
